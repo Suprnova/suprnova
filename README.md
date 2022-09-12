@@ -1,6 +1,6 @@
 # hi, i'm nova
 
-I'm an engineering student who spends his free time being gay and writing code.
+I'm a college student who spends his free time being gay and writing code.
 
 ---
 
@@ -11,7 +11,8 @@ I'm an engineering student who spends his free time being gay and writing code.
 
 ### ⚙️ Technologies
 - ✅ C#
-- 🔰 &nbsp;C++
+- 🔰 &nbsp;Go
+- 🔰 &nbsp;Astro
 - 🔰 &nbsp;HTML/CSS/JS
 
 ### 💬 Other Stuff
