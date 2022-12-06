@@ -7,18 +7,18 @@ I'm a college student who spends his free time being gay and writing code.
 ### 🔭 Interests
 - 🎵 Music
 - 🎮 Game modding
-- 🇯🇵 &nbsp;Japanese arcade games
+- 🇯🇵 Japanese arcade games
 
-### ⚙️ Technologies
+### ⚙️ Languages
 - ✅ C#
-- 🔰 &nbsp;Go
-- 🔰 &nbsp;Astro
-- 🔰 &nbsp;HTML/CSS/JS
+- 🔰 Go
+- 🔰 Java
+- 🔰 HTML/CSS/JS
 
 ### 💬 Other Stuff
 - 🏳️‍🌈 I'm quite gay.
 - 💭 I'm also learning about
-  - 🔒 &nbsp;Cybersecurity
+  - 🔒 Cybersecurity & Pentesting
   - 🕹️ Arcade/pinball repair
   - ⏪ Reverse engineering
 
